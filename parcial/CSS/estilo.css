@@ -1,0 +1,53 @@
+/* Estilos */
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+background-color:#8ee1f1 ;
+font-size: 18px;
+color:#f8fafb;
+font-style:italic;
+font-family:fantasy;
+}
+ div {
+   border-radius: 4px;
+   box-sizing: border-box;
+ }
+ .azul {
+background-color: #f8fafb ;
+width: 80%;
+max-width: 1200px;
+margin: 0 auto;
+padding: 20px;
+ }
+ .menta {
+     background-color: #98cbef ;
+     width: 100%;
+     padding: 20px;
+     margin: 5px 0;
+     display: inline-block;
+     
+ } 
+.claro {
+background-color: #b8e8f5;
+width: 35%;
+padding: 20px;
+margin: 5px 0;
+display: inline-block;
+
+}
+.marino {
+background-color: #5292b6;
+width: 50%;
+padding: 20px;
+margin: 5px 0;
+display: inline-block;
+}
+img {
+  width: 40%;
+  height: auto;
+}
+
+
+
